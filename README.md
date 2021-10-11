@@ -1,5 +1,6 @@
 # 2D-Turtle-With-Unity-Part-1
 This project is about getting started with unity and using scripts to make objects move in unity. <br />
+(In the GitHub, I refer to the script for the Circle as TurtleScript, but in the YouTube video, I refer to said script as NewBehaviourScript.) <br />
 Link to YouTube video about this project: https://youtu.be/AWbCPk5Z3FQ <br />
 Link to Unity Tutorial I used when completig this project: https://learn.unity.com/tutorial/scripts-as-behaviour-components <br />
 Link to Unity Documentation: https://docs.unity3d.com/Manual/index.html <br />
